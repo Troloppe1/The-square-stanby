@@ -1,0 +1,12 @@
+# Git
+.git
+.gitignore
+
+# OS / editor
+.DS_Store
+.vscode
+.idea
+
+# Build tools / config you don't want served
+*.log
+*.md
